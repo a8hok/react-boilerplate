@@ -1,0 +1,27 @@
+{
+  "name": "react-boilerplate",
+  "version": "1.0.0",
+  "description": "To create my own boilerplate for modern stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a8hok/react-boilerplate.git"
+  },
+  "keywords": [
+    "ReactJS",
+    "NodeJS",
+    "Webpack"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a8hok/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/a8hok/react-boilerplate#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
