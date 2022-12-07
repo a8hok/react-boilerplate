@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/a8hok/react-boilerplate#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
